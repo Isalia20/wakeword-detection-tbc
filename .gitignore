@@ -1,0 +1,8 @@
+wav_files/*
+lightning_logs/*
+output/*
+dataset/__pycache__*
+__pycache__/model.cpython-310.pyc
+*.wav
+__pycache__/utils.cpython-310.pyc
+.DS_Store

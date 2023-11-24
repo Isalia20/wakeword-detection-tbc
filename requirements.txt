@@ -1,0 +1,15 @@
+torch==2.1.1
+torchaudio==2.1.1
+torchvision==0.16.1
+transformers==4.35.2
+pytorch-lightning==2.1.2
+dataset==2.15.0
+sounddevice==0.4.6
+soundfile==0.12.1
+scipy==1.11.4
+numpy==1.26.2
+librosa==0.10.1
+matplotlib==3.8.2
+Pillow==10.1.0
+pydub==0.25.1
+sentencepiece==0.1.99
